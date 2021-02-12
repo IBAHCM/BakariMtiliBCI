@@ -1,13 +1,14 @@
 Package: BakariMtiliBCI
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Package for reproducible programming in R
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Author: Bakari Mtili <2500251M@student.gla.ac.uk>
+Maintainer: Bakari Mtili <2500251M@student.gla.ac.uk>
+Description: This package is used to demostrate how to write packages in R, using R studio
+License: GPL(>=2)
 Encoding: UTF-8
 LazyData: true
 URL: https://github.com/IBAHCM/BakariMtiliBCI
 BugReports: https://github.com/IBAHCM/BakariMtiliBCI/issues
+RoxygenNote: 7.1.1
+Imports:ggplot2
