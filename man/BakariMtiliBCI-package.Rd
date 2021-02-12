@@ -4,12 +4,9 @@
 \name{BakariMtiliBCI-package}
 \alias{BakariMtiliBCI-package}
 \alias{BakariMtiliBCI}
-\title{BakariMtiliBCI}
+\title{Barro Colorado Island data package}
 \description{
-\code{BakariMtiliSeries03} is a package developed as part of reproducible programming in R.
-}
-\details{
-The package contains simple biodiversity data and simulation models.
+This package contains BCI data and a number functions which will be used in simple analyses and simulations.
 }
 \author{
 Bakari Mtili <2500251M@student.gla.ac.uk> (maintainer)

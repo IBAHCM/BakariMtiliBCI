@@ -1,8 +1,7 @@
-#' BakariMtiliBCI
+#' Barro Colorado Island data package
 #'
-#' \code{BakariMtiliSeries03} is a package developed as part of reproducible programming in R.
 #'
-#'  The package contains simple biodiversity data and simulation models.
+#' This package contains BCI data and a number functions which will be used in simple analyses and simulations.
 #'
 #' @author
 #' Bakari Mtili <2500251M@student.gla.ac.uk> (maintainer)
@@ -11,6 +10,8 @@
 #' @aliases BakariMtiliBCI
 #' @docType package
 #'
-#' @import ggplot2
+#' @import magrittr
 #'
 NULL
+
+

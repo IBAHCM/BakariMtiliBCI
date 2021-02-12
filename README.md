@@ -1,2 +1,2 @@
 # BakariMtiliBCI
-In this practical we are going to make a biodiversity package
+The package contains BCI data and a number functions which will be used in simple analyses and simulations.

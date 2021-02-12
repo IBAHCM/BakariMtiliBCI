@@ -4,13 +4,32 @@ Title: Package for reproducible programming in R
 Version: 0.1.0
 Author: Bakari Mtili <2500251M@student.gla.ac.uk>
 Maintainer: Bakari Mtili <2500251M@student.gla.ac.uk>
-Description: This package is used to demostrate how to write packages in R, using R studio
+Description: The package contains BCI data and a number functions which will be 
+    used in simple analyses and simulations.
 License: GPL(>=2)
 Encoding: UTF-8
 LazyData: true
 URL: https://github.com/IBAHCM/BakariMtiliBCI
 BugReports: https://github.com/IBAHCM/BakariMtiliBCI/issues
 RoxygenNote: 7.1.1
-Imports: ggplot2
+Imports: 
+    ggplot2,
+    RPiR (>= 0.70.0),
+    magrittr (>= 2.0.1),
+    tibble (>= 3.0.6),
+    reshape2 (>= 1.4.4),
+    dplyr (>= 1.0.4),
+    rdiversity (>= 2.0),
+    vegan (>= 2.5.7),
+    permute (>= 0.9.5)
 Depends: 
     R (>= 2.10)
+Remotes:  
+    IBAHCM/RPiR,
+    tidyverse/magrittr,
+    tidyverse/tibble,
+    hadley/reshape,
+    tidyverse/dplyr,
+    boydorr/rdiversity,
+    vegandevs/vegan,
+    lattice
