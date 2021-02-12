@@ -11,4 +11,6 @@ LazyData: true
 URL: https://github.com/IBAHCM/BakariMtiliBCI
 BugReports: https://github.com/IBAHCM/BakariMtiliBCI/issues
 RoxygenNote: 7.1.1
-Imports:ggplot2
+Imports: ggplot2
+Depends: 
+    R (>= 2.10)
