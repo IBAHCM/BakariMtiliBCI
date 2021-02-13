@@ -10,7 +10,16 @@
 #' @aliases BakariMtiliBCI
 #' @docType package
 #'
-#' @import magrittr
+#' @import
+#'   ggplot2
+#'   RPiR
+#'   magrittr
+#'   tibble
+#'   reshape2
+#'   dplyr
+#'   rdiversity
+#'   vegan
+#'   permute
 #'
 NULL
 
