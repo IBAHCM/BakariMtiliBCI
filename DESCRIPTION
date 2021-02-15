@@ -15,21 +15,15 @@ RoxygenNote: 7.1.1
 Imports: 
     ggplot2,
     RPiR (>= 0.70.0),
-    magrittr (>= 2.0.1),
-    tibble (>= 3.0.6),
-    reshape2 (>= 1.4.4),
-    dplyr (>= 1.0.4),
-    rdiversity (>= 2.0),
-    vegan (>= 2.5.7),
-    permute (>= 0.9.5)
+    magrittr,
+    tibble,
+    reshape2,
+    dplyr,
+    rdiversity,
+    vegan,
+    permute
 Depends: 
     R (>= 2.10)
 Remotes:  
-    IBAHCM/RPiR,
-    tidyverse/magrittr,
-    tidyverse/tibble,
-    hadley/reshape,
-    tidyverse/dplyr,
-    boydorr/rdiversity,
-    vegandevs/vegan,
-    lattice
+    IBAHCM/RPiR
+    
